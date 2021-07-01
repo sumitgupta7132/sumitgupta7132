@@ -59,7 +59,7 @@
 <br/>
 <br/>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumitgupta7132&show_icons=true&locale=en" alt="sumitgupta7132" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumitgupta7132&show_icons=true&locale=en" alt="sumitgupta7132" width="420"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitgupta7132&show_icons=true&locale=en&layout=compact" alt="sumitgupta7132" /></div>
 
 
