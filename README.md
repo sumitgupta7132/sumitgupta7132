@@ -49,10 +49,10 @@
 </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="mailto:sumit0104gupta@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sumitgupta6411"/></a>
-<a href="https://linkedin.com/in/sumitgupta6411" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sumitgupta6411"/></a>
-<a href="https://instagram.com/_sumit_._gupta" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_sumit_._gupta"/></a>
-<a href="https://twitter.com/sumitgupta6411" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sumitgupta6411"/></a>
+ <a href="mailto:sumit0104gupta@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sumitgupta6411"/></a>
+<a href="https://linkedin.com/in/sumitgupta6411" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sumitgupta6411"/></a>
+<a href="https://instagram.com/_sumit_._gupta" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_sumit_._gupta"/></a>
+<a href="https://twitter.com/sumitgupta6411" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sumitgupta6411"/></a>
 </div>
 <br/>
 <br/>
