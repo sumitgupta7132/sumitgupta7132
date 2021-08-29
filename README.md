@@ -3,14 +3,14 @@
 <br>
 <p>
 - 💻 Competitive Programmer and a passionate Web Developer<br>
- - 📚 IT 3rd Year Student at <a href="https://www.ietlucknow.ac.in/" target="_blank">IET Lucknow.</a><br>
+ - 📚 IT 3rd Year Student at IET Lucknow<br>
 - 😄I’m currently learning Data Structures and Algorithms.<br> 
 - 🙂 I’m looking for help with Advance Data Structures and Algorithms and Open Source contibution.
 </p>
  <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<img alt="hello!" align="left" src="https://giffiles.alphacoders.com/947/9473.gif">
+<!-- <img alt="hello!" align="left" src="https://giffiles.alphacoders.com/947/9473.gif"> -->
 <div align="left"> 
 <table>
 <tr>
