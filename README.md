@@ -3,7 +3,7 @@
 <br>
 <p>
 - 💻 Competitive Programmer and a passionate Web Developer<br>
- - 📚 IT 3rd Year Student at IET Lucknow<br>
+ - 📚 IT Final Year Student at IET Lucknow<br>
 - 😄I’m currently learning Data Structures and Algorithms.<br> 
 - 🙂 I’m looking for help with Advance Data Structures and Algorithms and Open Source contibution.
 </p>
