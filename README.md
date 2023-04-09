@@ -61,5 +61,21 @@
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sumitgupta7132&show_icons=true&locale=en" alt="sumitgupta7132" width="420"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitgupta7132&show_icons=true&locale=en&layout=compact" alt="sumitgupta7132" /></div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<div>
+ <h3> Deployed Projects </h3>
+ <ul>
+  <li>🌧️ <a href="https://weather-app-sumitgupta.onrender.com">Weather-app</a></li>
+  <li>🙋‍♂️ <a href="https://sayhi-sumitgupta-chat-app.onrender.com">Say-Hi-Chat-App</a></li>
+  <li>🎮 <a href="https://games-tictactoe.netlify.app">Tic-tac-toe</a></li>
+</div>
 
 
