@@ -73,9 +73,9 @@
 <div>
  <h3> Deployed Projects </h3>
  <ul>
-  <li>🌧️ <a href="https://weather-app-sumitgupta.onrender.com">Weather-app</a></li>
-  <li>🙋‍♂️ <a href="https://sayhi-sumitgupta-chat-app.onrender.com">Say-Hi-Chat-App</a></li>
-  <li>🎮 <a href="https://games-tictactoe.netlify.app">Tic-tac-toe</a></li>
+  <li>🌧️ <a href="https://weather-app-sumitgupta.onrender.com" target="_blank">Weather-app</a></li>
+  <li>🙋‍♂️ <a href="https://sayhi-sumitgupta-chat-app.onrender.com" target="_blank">Say-Hi-Chat-App</a></li>
+  <li>🎮 <a href="https://games-tictactoe.netlify.app" target="_blank">Tic-tac-toe</a></li>
 </div>
 
 
